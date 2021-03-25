@@ -1,0 +1,35 @@
+  #Put all dependencies here
+  # To run: conda env create -f environment.yml
+  name: music
+  channels:
+      - conda-forge
+  dependencies:
+      - python
+      - pip
+      - cudatoolkit=11.1
+      - numpy
+      - matplotlib
+      - imageio
+      - imageio-ffmpeg
+      - configargparse
+      - imagemagick
+      - keras
+      - musdb
+      - librosa
+      - stempeg
+      - seaborn
+      - scipy
+      - pytorch
+      - torchvision
+      - pip:
+          - tensorflow-addons
+          - tqdm
+          - norbert
+          - scikit-learn
+          - scikit_posthocs
+          - torchaudio
+          - museval
+
+
+          
+
