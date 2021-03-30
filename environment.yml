@@ -19,6 +19,7 @@
       - stempeg
       - seaborn
       - scipy
+      - pandas
       - pytorch
       - torchvision
       - pip:
@@ -29,6 +30,7 @@
           - scikit_posthocs
           - torchaudio
           - museval
+          - musdb
 
 
           
