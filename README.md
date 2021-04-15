@@ -9,5 +9,5 @@ conda activate music
 
 ## Download Data
 ```
-bash retrieve_data.sh
+python3 data.py
 ```
