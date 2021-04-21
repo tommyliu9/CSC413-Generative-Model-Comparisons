@@ -8,8 +8,9 @@ import torch.utils.data
 import torchaudio
 import tqdm
 
-#Pulled from https://github.com/sigsep/open-unmix-pytorch/blob/master/openunmix/data.py
-
+"""
+Pulled from https://github.com/sigsep/open-unmix-pytorch/blob/master/openunmix/data.py
+"""
 
 
 
